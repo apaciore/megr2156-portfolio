@@ -42,7 +42,7 @@ The user is capable of pressing down with enough force to draw lead out of the p
 
 C. Geometry: 
 
-The spherical metal tip makes it so the pen can smoothly glide across the surface that is being written on, allowing for continuous writing.
+![The spherical metal tip makes it so the pen can smoothly glide across the surface that is being written on, allowing for continuous writing.](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A01/IMG_4009.jpeg?raw=true)
 
 The rounded shaft of the pen allows the user to comfortably/seamlessly grip the pen and apply pressure to it.
 
