@@ -4,6 +4,10 @@
 
 The objective of this assignment is to analyze two other existing engineering portfolios, analyze a mechanical product, and make decisions for my own portfolio that convey my professional identity adequately to my own standard, as well as a standard for all engineers.
 
+## Decide
+
+A reader needs to know before entering this portfolio, that this is an engineering portfolio. The main purpose is to organize and showcase all of my engineering projects, including all of the logistics possible for one to 
+
 ## Analyze
 
 Task A: Portfolio Analysis
@@ -44,14 +48,19 @@ C. Geometry:
 
 ![The spherical metal tip makes it so the pen can smoothly glide across the surface that is being written on, allowing for continuous writing.](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A01/IMG_4009.jpeg?raw=true)
 
-The rounded shaft of the pen allows the user to comfortably/seamlessly grip the pen and apply pressure to it.
+![The rounded shaft of the pen allows the user to comfortably/seamlessly grip the pen and apply pressure to it.](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A01/IMG_4008.jpeg?raw=true)
 
-D. Patent Research
+D. Patent Research:
+
+Patent No. 2,390,636
+
+Author: László Bíró
 
 Alternative 1- Ink and feather: The user can use the tip of a feather and manually dip it into ink periodically before using it to write the same way a mechanical pen would.
 
 Alternative 2- Marker: Also creates a permanent marking using gravity, but it uses a felt tip and paint or ink to create a thicker marking than a pen would create.
 
+The surface of the pen shaft is actually not quite round, and is more so slightly triangular with 3 main surfaces. This must've been done intentionally so that way the pad of your finger can sit more solidly on a rigid surface rather having to find a grip on a rounded surface.
 
 
 
@@ -61,7 +70,6 @@ Alternative 2- Marker: Also creates a permanent marking using gravity, but it us
 
 
 
-## Decide
 
 
 ## Communicate
