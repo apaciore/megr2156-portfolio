@@ -10,6 +10,10 @@ Homepage Identity:
 
 A reader needs to know before entering this portfolio, that this is an engineering portfolio. The main purpose is to organize and showcase all of my engineering projects, including all of the logistics possible for one to be able to have a complete understanding of them. Aesthetic elements are not the focus of the portfolio, but rather just an enhancement that would make someone want to view my portfolio over another. After maybe a brief section about my background at the homepage, the reader should be able to easily navigate across my different projects and find the one that piques their interest.
 
+Intentional Customization: 
+
+I changed the theme from light theme to dark theme. I made this change because it allows the text to be a little more defined and readable, and the focus is on the content, so I want it to be readable. I was not able to find many options for customization such as font size, where I would have changed it to something minimalistic but slightly more appealing to the eye as well.
+
 Documentation Standard:
 
 Each assignment completed in this portfolio will cover all topics pertinent to each assignment, and additional context or explanation when beneficial to increase clarity about the topic in question.
@@ -20,7 +24,7 @@ Task A: Portfolio Analysis
 
 Portfolio 1 - https://nhoong.github.io/
 
-Navigability: In less than 10 seconds I was able to scroll down and see an array of projects that Nathan was involved in. It was not difficult to navigate and find any of his projects.
+Navigability: In less than 10 seconds I was able to scroll down and see an array of projects that Nathan was involved in. It was not difficult to navigate and find any of his projects. Although, readability was definitely in question with small text used.
 
 Reproducibility: Nathan's projects on his portfolio are definitely not considered easily reproduceable. Nathan does well at providing an overview and general schematics that convey the ideas of his designs. Although, for one to produce these products directly from the portfolio, one would need more guidance such as more detailed explanations, instructions, or schematics.
 
@@ -74,4 +78,4 @@ My name is Aiden Paciorek. Who I am as an engineer is not quite solidified yet. 
 What does it mean to defend an engineering decision : and do you currently know how to do it?
 To defend an engineering decision would mean to demonstrate enough knowledge about the engineering concept that you can explain how you arrived to your decision, or why you didn't make an alternative decision. I know in theory how to defend an engineering decision, but in reality, I would likely run into a varying number of nuances depending on what the topic is. I would imagine for most engineering topics, I would need in depth preparation in order to defend my decision.
 
-I spent 4 hours or at least close to that on this assignment- A1.
+I spent 4 hours on this assignment- A1.
