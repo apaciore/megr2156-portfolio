@@ -12,7 +12,7 @@ A reader needs to know before entering this portfolio, that this is an engineeri
 
 Documentation Standard:
 
-Each assignment completed in this portfolio will cover all topics pertinent to each assignment, and additional context or explanation when beneficial to increase clarity.
+Each assignment completed in this portfolio will cover all topics pertinent to each assignment, and additional context or explanation when beneficial to increase clarity about the topic in question.
 
 ## Analyze
 
