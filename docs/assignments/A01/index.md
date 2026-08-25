@@ -10,6 +10,9 @@ Homepage Identity:
 
 A reader needs to know before entering this portfolio, that this is an engineering portfolio. The main purpose is to organize and showcase all of my engineering projects, including all of the logistics possible for one to be able to have a complete understanding of them. Aesthetic elements are not the focus of the portfolio, but rather just an enhancement that would make someone want to view my portfolio over another. After maybe a brief section about my background at the homepage, the reader should be able to easily navigate across my different projects and find the one that piques their interest.
 
+Documentation Standard:
+Each assignment completed in this portfolio will cover all topics pertinent to each assignment, and additional context or explanation when beneficial to increase clarity.
+
 ## Analyze
 
 Task A: Portfolio Analysis
