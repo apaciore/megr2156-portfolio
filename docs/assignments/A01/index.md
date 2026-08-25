@@ -11,6 +11,7 @@ Homepage Identity:
 A reader needs to know before entering this portfolio, that this is an engineering portfolio. The main purpose is to organize and showcase all of my engineering projects, including all of the logistics possible for one to be able to have a complete understanding of them. Aesthetic elements are not the focus of the portfolio, but rather just an enhancement that would make someone want to view my portfolio over another. After maybe a brief section about my background at the homepage, the reader should be able to easily navigate across my different projects and find the one that piques their interest.
 
 Documentation Standard:
+
 Each assignment completed in this portfolio will cover all topics pertinent to each assignment, and additional context or explanation when beneficial to increase clarity.
 
 ## Analyze
@@ -67,15 +68,10 @@ Alternative 2- Marker: Also creates a permanent marking using gravity, but it us
 
 The surface of the pen shaft is actually not quite round, and is more so slightly triangular with 3 main surfaces. This must've been done intentionally so that way the pad of your finger can sit more solidly on a rigid surface rather having to find a grip on a rounded surface.
 
-
-
-
-
-
-
-
-
-
-
 ## Communicate
+My name is Aiden Paciorek. Who I am as an engineer is not quite solidified yet. I chose mechanical engineering because I enjoy problem solving, creativity, innovation, and design. Mechanical engineering was also my choice because it seemed to be the most broad out of all of the forms of engineering, allowing me flexibility in what path I end up taking. I am beginning to become a much more persistent, gritty problem solver through the engineering endeavors I have taken thus far. Engineering is not a simple and easy subject in my opinion, so it takes me further towards being comfortable with the uncomfortable too. 
 
+What does it mean to defend an engineering decision : and do you currently know how to do it?
+To defend an engineering decision would mean to demonstrate enough knowledge about the engineering concept that you can explain how you arrived to your decision, or why you didn't make an alternative decision. I know in theory how to defend an engineering decision, but in reality, I would likely run into a varying number of nuances depending on what the topic is. I would imagine for most engineering topics, I would need in depth preparation in order to defend my decision.
+
+I spent 4 hours or at least close to that on this assignment- A1.
