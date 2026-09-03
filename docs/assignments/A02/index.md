@@ -10,7 +10,7 @@ P = 20-30 kN, a = 0.4 m, b = 0.3 m, Point A is a pin and Point B is a roller
 
 ## Analyze
 
-#Design of Truss Geometry
+## Design of Truss Geometry
 
 ![geo](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A02/IMG_4235.heic)
 
