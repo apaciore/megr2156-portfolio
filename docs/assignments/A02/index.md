@@ -30,10 +30,5 @@ The weight of the truss was calculated first by determining the total length of 
 
 The needed values that needed to be calculated were the allowable shear stress, pin cross-sectional area, pin diameter, and pin weight. After identifying my number of pins, and drawing a free body diagram of Pin D, I solved symbolically for the shear stress in the pins. This left me with an equation to find the area of a pin, where I just plugged in my known values. After rearranging the area formula for diameter, I just plugged in my values to find the corresponding diameter. From there, I could find the length of a pin after having the diameter, and plugged that in to find the volume of a pin. The volume could be multiplied by the given steel density to find the weight of one pin. That weight just has to be multiplied by the number of pins I had (7) to get the total weight of the pins. 
 
-
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
-
+## Engineering Lesson
+An engineering lesson I learned or was reminded of at least is that the maximum force is the force that is always going to be used when calculating the minimum cross sectional area. This is due to the fact that the components have to be able to deal with the greatest amount of stress that is applied to the bridge, safety factor aside.
