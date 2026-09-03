@@ -5,7 +5,7 @@ To design a lightweight planar truss using A500 steel, create free body diagrams
 
 ![obj](https://private-user-images.githubusercontent.com/319025345/644667079-78e9c3e8-249e-45f5-959b-db6fa12fc66d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgzOTUwNDQsIm5iZiI6MTc4ODM5NDc0NCwicGF0aCI6Ii8zMTkwMjUzNDUvNjQ0NjY3MDc5LTc4ZTljM2U4LTI0OWUtNDVmNS05NTliLWRiNmZhMTJmYzY2ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwM1QwMDE5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjNmYzJkZmI4MmM0ZDdlMjdjMzk3ZTgwYzUzODQwMzM1MDNiNGZlZGQxZTE5YjgyNDk2NjI1NDJiNmQwZDNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.hAEcIzcvQVcWuGdhpXCV5EO8D6s8Xk0FRzvvIz2gilE)
 
-The parameters are stated below:
+The parameters are stated here:
 P = 20-30 kN, a = 0.4 m, b = 0.3 m, Point A is a pin and Point B is a roller
 
 ## Analyze
