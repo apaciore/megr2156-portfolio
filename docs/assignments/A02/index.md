@@ -21,16 +21,17 @@ The design I have come up with aims to optimize strength at the expense of a sma
 ![calc1](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A02/IMG_4236.HEI)
 ![calc2](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A02/IMG_4237.HEIC)
 
+The largest internal force that I calculated in the entire truss was 16.02 kN. The minimum cross-sectional area was denoted symbolically using yield strength, safety factor, and largest internal force. After rearranging the equation to solve for the minimum cross-sectional area, I just plugged in all my known variables.
 The weight of the truss was calculated first by determining the total length of the A500 steel that was used. After I determined that number, I multiplied by the minimum area to find the volume of the truss. Then, the given steel density was multiplied by that calculated volume to find the total mass of the truss. From there, you just have to multiply that mass by the gravity constant to get the expected weight of the truss.
 
 ## Pin Calculations
 
 ![calc3](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A02/IMG_4238.heic)
 
-The needed values that needed to be calculated were the allowable shear stress, pin cross-sectional area, pin diameter, and pin weight. After identifying my number of pins, and drawing a free body diagram of Pin D, I solved symbolically for the shear stress in the pins. This left me with an equation to find the area of a pin, where I just plugged in my known values. After rearranging the area formula for diameter, I just plugged in my vlaues to find the corresponding diameter. 
+The needed values that needed to be calculated were the allowable shear stress, pin cross-sectional area, pin diameter, and pin weight. After identifying my number of pins, and drawing a free body diagram of Pin D, I solved symbolically for the shear stress in the pins. This left me with an equation to find the area of a pin, where I just plugged in my known values. After rearranging the area formula for diameter, I just plugged in my values to find the corresponding diameter. From there, I could find the length of a pin after having the diameter, and plugged that in to find the volume of a pin. The volume could be multiplied by the given steel density to find the weight of one pin. That weight just has to be multiplied by the number of pins I had (7) to get the total weight of the pins. 
 
 
-The largest internal force that I calculated in the entire truss was 16.02 kN. The minimum cross-sectional area was denoted symbolically using yield strength, safety factor, and largest internal force. After rearranging the equation to solve for the minimum cross-sectional area, I just plugged in all my known variables.
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
