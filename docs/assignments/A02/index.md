@@ -10,6 +10,9 @@ P = 20-30 kN, a = 0.4 m, b = 0.3 m, Point A is a pin and Point B is a roller
 
 ## Analyze
 
+#Design of Truss Geometry
+![geo](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A02/IMG_4235.heic)
+The design I have come up with aims to optimize strength at the expense of a small amount of weight and added material. You can place it in the medium ground on the front of weight, material usage, and strength, perhaps a well rounded design in theory.
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
