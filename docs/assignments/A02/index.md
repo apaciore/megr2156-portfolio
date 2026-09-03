@@ -2,6 +2,7 @@
 
 ## Objective
 To design a lightweight planar truss using A500 steel, create free body diagrams of crucial pins and joints, find required cross sectional area of truss elements with safety factor, determine pin sizes based on shear forces with a safety factor, estimate the total weight of the truss and pins, create a CAD model of the design with accurate dimensions and weight predictions, compare CAD weight prediction to hand calculations, and document key engineering lessons learned.
+![obj](https://github.com/Jmswanchara/megr2156-portfolio/raw/main/docs/assignments/A02/parameters_ss.png)
 
 ## Analyze
 
