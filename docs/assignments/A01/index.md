@@ -55,10 +55,10 @@ ii. Assumptions
 The user is capable of pressing down with enough force to draw lead out of the pencil and onto the paper, and can remove the cap from the pen/press the button to expose the ink tip.
 
 C. Geometry: 
-
-![The spherical metal tip makes it so the pen can smoothly glide across the surface that is being written on, allowing for continuous writing.](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A01/IMG_4009.jpeg?raw=true)
-
-![The rounded shaft of the pen allows the user to comfortably/seamlessly grip the pen and apply pressure to it.](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A01/IMG_4008.jpeg?raw=true)
+The spherical metal tip makes it so the pen can smoothly glide across the surface that is being written on, allowing for continuous writing.
+![Ball point tip](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A01/IMG_4009.jpeg?raw=true)
+The rounded shaft of the pen allows the user to comfortably/seamlessly grip the pen and apply pressure to it.
+![Cylindrical shaft](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A01/IMG_4008.jpeg?raw=true)
 
 D. Patent Research:
 
