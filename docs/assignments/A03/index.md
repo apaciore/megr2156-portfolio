@@ -13,6 +13,7 @@ I decided on a standard 1 inch diameter for the circular aluminum bar, creating 
 There was a strong discrepancy between the hand calculations and FEA. To be completely honest, I was unable to locate the error for the almost exact once decimal place discrepancy, totaling to 905.56% discrepancy. I checked my mother table to ensure that it matched all of the design specifications, and made sure that my selected material had a Young's modulus close to the modulus that was very similar to the one I selected to match the length that I calculated for. After checking all of the factors I could think of, I was left unable to locate the source of the discrepancy, as it appears my setup was consistent and accurate. The only thing plausible would be a one decimal place error somewhere in my calculations, but I simply couldn't locate where. 
 
 
+
 ![cad1](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20203639.png)
 ![cad2](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20171736.png)
 ![cad3](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20203814.png)
@@ -23,6 +24,7 @@ There was a strong discrepancy between the hand calculations and FEA. To be comp
 ![cad8](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20204142.png)
 
 My max stress was much lower than the maximum allowed stress for aluminum according to my hand calculations, as the FEA presented 4.19 * 10^-7 ksi, and the maximum allowed stress is 0.382 ksi. 
+
 
 
 
