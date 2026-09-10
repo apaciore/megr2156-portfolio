@@ -23,8 +23,6 @@ There was a strong discrepancy between the hand calculations and FEA. To be comp
 ![cad7](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20204129.png)
 ![cad8](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20204142.png)
 
-Link to download my CAD file- "C:\Users\apaciore\OneDrive\MEGR2156- A3.SLDPRT"
-
 
 ## Design Reflection- Part B
 
