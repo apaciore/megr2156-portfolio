@@ -23,6 +23,9 @@ There was a strong discrepancy between the hand calculations and FEA. To be comp
 ![cad7](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20204129.png)
 ![cad8](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20204142.png)
 
+Link to download my CAD file- "C:\Users\apaciore\OneDrive\MEGR2156- A3.SLDPRT"
+
+
 ## Design Reflection- Part B
 
 My max stress was much lower than the maximum allowed stress for aluminum according to my hand calculations, as the FEA presented 4.19 * 10^-7 ksi, and the maximum allowed stress is 0.382 ksi. This even further confused me, since less stress being applied according to the FEA should result in less deflection in the FEA, but my deflection was greater in the FEA regardless of my stress being lesser in the FEA. I realize that there could be many other possible factors that could influence why the relationship doesn't appear to be proportional like I expected.
