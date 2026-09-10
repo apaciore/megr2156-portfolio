@@ -18,8 +18,13 @@ The objective was to design a beam with a circular cross section, given a specif
 ![cad7](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20204129.png)
 ![cad8](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20204142.png)
 
+My max stress was much lower than the maximum allowed stress for aluminum according to my hand calculations, as the FEA presented 4.19 * 10^-7 ksi, and the maximum allowed stress is 0.382 ksi. 
 
+There was a strong discrepancy between the hand calculations and FEA. To be completely honest, I was unable to locate the error for the almost exact once decimal place discrepancy, totaling to 905.56% discrepancy. I checked my mother table to ensure that it matched all of the design specifications, and made sure that my selected material had a Young's modulus close to the modulus that was very similar to the one I selected to match the length that I calculated for. After checking all of the factors I could think of, I was left unable to locate the source of the discrepancy, as it appears my setup was consistent and accurate. 
 
+![A3calc2](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20221312.png)
+
+My newly calculated safety factor according to the nominal stress presented by the FEA was much higher than the safety factor produced from the hand calculated stress. 
 
 ## Decide
 
