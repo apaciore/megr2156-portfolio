@@ -14,14 +14,14 @@ There was a strong discrepancy between the hand calculations and FEA. To be comp
 
 
 
-![cad1](Screenshot_202026-09-09_20203639.png)
-![cad2](Screenshot_202026-09-09_20171736.png)
-![cad3](Screenshot_202026-09-09_20203814.png)
-![cad4](Screenshot_202026-09-09_20172044.png)
-![cad5](Screenshot_202026-09-09_20173219.png)
+![cad1](Screenshot_2026-09-09_20203639.png)
+![cad2](Screenshot_2026-09-09_20171736.png)
+![cad3](Screenshot_2026-09-09_20203814.png)
+![cad4](Screenshot_2026-09-09_20172044.png)
+![cad5](Screenshot_2026-09-09_20173219.png)
 ![cad6](Screenshot_2026-09-09_170637.png)
-![cad7](Screenshot_202026-09-09%20204129.png)
-![cad8](Screenshot_202026-09-09_20204142.png)
+![cad7](Screenshot_2026-09-09%20204129.png)
+![cad8](Screenshot_2026-09-09_20204142.png)
 
 
 ## Design Reflection- Part B
