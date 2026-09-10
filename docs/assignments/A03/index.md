@@ -18,7 +18,7 @@ There was a strong discrepancy between the hand calculations and FEA. To be comp
 ![cad2](Screenshot%202026-09-09%20171736.png)
 ![cad3](Screenshot%202026-09-09%20203814.png)
 ![cad4](Screenshot%202026-09-09%20172044.png)
-![cad5](Screenshot%202026-09-09%2020173219.png)
+![cad5](Screenshot%202026-09-09%20173219.png)
 ![cad6](Screenshot%202026-09-09%20170637.png)
 ![cad7](Screenshot%202026-09-09%20204129.png)
 ![cad8](Screenshot%202026-09-09%20204142.png)
