@@ -9,6 +9,8 @@ The objective was to design a beam with a circular cross section, given a specif
 
 ![A3calc](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20211416.png)
 
+
+
 ![cad1](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20203639.png)
 ![cad2](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20171736.png)
 ![cad3](https://github.com/apaciore/megr2156-portfolio/blob/main/docs/assignments/A03/Screenshot%202026-09-09%20203814.png)
