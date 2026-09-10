@@ -34,8 +34,6 @@ My max stress was much lower than the maximum allowed stress for aluminum accord
 
 My newly calculated safety factor according to the nominal stress presented by the FEA and the concentration factor for a bar with a pin hole under tension was much higher than the safety factor produced from the hand calculated stress. 
 
-## Decide
-
 
 ## Communicate
 
