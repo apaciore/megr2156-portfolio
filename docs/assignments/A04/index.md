@@ -41,6 +41,10 @@ From there, I was able to create my four holes in feature 2, used to screw in th
 
 ![feat2holes](Screenshot%202026-09-16%20221943.png)
 
+Link to download my part on solidworks:
+[Download the SLDPRT file](./sodesignA4.SLDPRT)
+
+
 ## Communicate
 
 This assignment helped me understand how to utilize different engineering equations to solve for the geometry of structural components. It taught me to solve for variables using more than one equation if possible, so that way the maximum value can be utilized to ensure structural integrity, rather than settling for the first solution presented. I spent at least close to 10 hours on this assingment.
