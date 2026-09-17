@@ -18,6 +18,7 @@ I completed a very similar calculation to find the same height/thickness of feat
 
 ## Isometric Sketch
 
+After determining the minimum thickness of features 1 and 2, I drew up an isometric sketch for the motor mount. This helped a lot with easily reading and understanding the dimensions when building the CAD model in the next step.
 ![iso](Screenshot%202026-09-16%20221158.png)
 
 ## CAD Model (Parametric)
