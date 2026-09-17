@@ -8,7 +8,7 @@ The objective of this assignment is to design a motor mount to be attached to a 
 
 ![figure1](Screenshot%202026-09-16%20220927.png)
 
-PLA was the material that I picked out of the three. I chose to make the length and width dimensions of feature 1 30mm, since the gearbox has a diameter of 28mm according to the reference, so this would be enough space to house the motor. I utilized the free body diagram to create a moment calculation, which I used as a variable in my stress formula, which I rearranged to find my height of feature 1, 6.708mm. 
+PLA was the material that I picked out of the three after researching the materials, since it can be 3D printed, as well as the strength it provided. I chose to make the length and width dimensions of feature 1 30mm, since the gearbox has a diameter of 28mm according to the reference, so this would be enough space to house the motor. I utilized the free body diagram to create a moment calculation, which I used as a variable in my stress formula, which I rearranged to find my height of feature 1, 6.708mm. 
 
 ## Feature 2 (includes sketch)
 
@@ -19,6 +19,7 @@ I completed a very similar calculation to find the same height/thickness of feat
 ## Isometric Sketch
 
 After determining the minimum thickness of features 1 and 2, I drew up an isometric sketch for the motor mount. This helped a lot with easily reading and understanding the dimensions when building the CAD model in the next step.
+As you can see, I chose to go with a rather standard L shaped bracket, as was most plausible for minimizing the deflection adequately.
 ![iso](Screenshot%202026-09-16%20221158.png)
 
 ## CAD Model (Parametric)
@@ -39,6 +40,10 @@ Then I sketched feature 2 to my specified dimensions and extruded it across the 
 From there, I was able to create my four holes in feature 2, used to screw in the mount. I two 3.4mm circles on the bottom half of the plate, and mirrored them two create two more on the top half, so all four were evenly spaced across the four quadrants of the surface. Lastly, I cut extruded these holes all the way through so the mount can be screwed in place.
 
 ![feat2holes](Screenshot%202026-09-16%20221943.png)
+
+## Communicate
+
+This assignment helped me understand how to utilize different engineering equations to solve for the geometry of structural components. It taught me to solve for variables using more than one equation if possible, so that way the maximum value can be utilized to ensure structural integrity, rather than settling for the first solution presented. I spent at least close to 10 hours on this assingment.
 
 
 
