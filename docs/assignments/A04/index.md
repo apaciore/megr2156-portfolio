@@ -10,6 +10,11 @@ The objective of this assignment is to design a motor mount to be attached to a 
 
 ## Figure 2 (includes sketch)
 
+![figure2](Screenshot%202026-09-16%20221123.png)
+
+## Isometric Sketch
+
+![iso](Screenshot%202026-09-16%20221123.png)
 
 ## CAD Model (Parametric)
 
