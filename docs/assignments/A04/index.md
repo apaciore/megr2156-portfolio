@@ -6,6 +6,7 @@ The objective of this assignment is to design a motor mount to be attached to a 
 
 ## Figure 1 (includes sketch)
 
+![figure1](A4Feature1.heic)
 
 ## Figure 2 (includes sketch)
 
