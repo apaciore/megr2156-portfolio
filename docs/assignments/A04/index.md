@@ -12,3 +12,8 @@ The objective of this assignment is to design a motor mount to be attached to a 
 
 ## CAD Model (Parametric)
 
+I first sketched the length and base of feature 1 to size, and then extruded the sketch to my height that I solved for.
+
+I then created 3 radial cut extrusions, the largest being 28mm diameter, the size of the gearbox, for 2mm of depth. I then cut extruded down another 2mm down from there at a diameter of 18mm, and then the rest of the way through at 6mm diameter.
+
+Then I sketched feature 2 to dimension and extruded it across the base. From there, I was able to create my four holes in feature 2, used to screw in the mount.
