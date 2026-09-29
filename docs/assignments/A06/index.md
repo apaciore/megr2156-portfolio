@@ -4,7 +4,7 @@
 
 The objective of this assignment is to utilize the bracket design we modeled in the last assignment to make a CAD model of it, and then and engineering multiview drawing from that, including dimensions and tolerances. A goal is to design it in CAD in a way that accommodates factors of both the strength and stiffness analysis of the previous assignment's design.
 
-## Analyze
+## Part Modeling Process
 
 The first thing I executed in CAD was the extrusion of Feature A at 1.5 in and a diameter of 0.523 in, in order to accommodate by the strength analysis.
 ![cad1](Screenshot%202026-09-27%20170315.png)
