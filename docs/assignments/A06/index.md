@@ -24,7 +24,7 @@ The last step for creating the CAD model of the bracket was to sketch the flange
 
 ## Engineering Multiview Drawing
 
-![drawing](Screenshot%202026-09-28%20222531.png)
+![drawing](Screenshot%202026-09-28%20223240.png)
 
 ## Reflections
 
