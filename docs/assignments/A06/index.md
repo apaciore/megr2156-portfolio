@@ -18,12 +18,17 @@ I then sketched Feature C to a total width of 2.5 in, and a length of 1.5 in to 
 My next step was to sketch 2 arms at a width of 0.192 in for stress analysis on top of Feature C, and extruded this sketch 1.5 in high. This created my Feature D.
 ![cad4](Screenshot%202026-09-28%20210945.png)
 
-The last step for creating the CAD model of the bracket was to sketch the flanges on the top of Feature D, and extrude it to a height/thickness of 0.5477 in to accommodate my stress analysis for Feature E.
+The last step for creating the CAD model of the bracket was to sketch the flanges on the top of Feature D, and extrude it to a height/thickness of 0.5477 in to accommodate my stress analysis for Feature E. This gave me the complete CAD model of my bracket.
 ![cad5](Screenshot%202026-09-28%20211811.png)
 
 
 ## Engineering Multiview Drawing
 
+![drawing](!Screenshot%202026-09-28%20222531.png)
 
 ## Reflections
+
+a.) For the diameter of Feature A, it was very clear to me to choose the dimension presented by the stress analysis. My stiffness analysis presented a minimum diameter of 0.049 in, which was exponentially smaller than the diameter presented by stress analysis- .532 in. Therefore, it was important to select the diameter presented by stress equations, or else the design would have been ultimately insufficient under just the stiffness analysis requirement. 
+
+b.) The majority of my dimensions I just left default at two decimal places as there wasn't a need for close precision at most areas. The area that I did apply the tightest tolerance was to the part of the bracket where the T-beam slides. This is because a sliding fit requires the size of the bracket at that point to be much closer to the size of the component than how much it matters for the other dimensions. 
 
