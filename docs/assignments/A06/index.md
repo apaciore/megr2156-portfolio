@@ -32,3 +32,7 @@ a.) For the diameter of Feature A, it was very clear to me to choose the dimensi
 
 b.) The majority of my dimensions I just left default at two decimal places as there wasn't a need for close precision at most areas. The area that I did apply the tightest tolerance was to the part of the bracket where the T-beam slides. This is because a sliding fit requires the size of the bracket at that point to be much closer to the size of the component than how much it matters for the other dimensions. 
 
+Most of the lessons I learned from this assignment involved learning the Solidworks Interface. It has been a while since I have generating an engineering multiview drawing of a part in CAD. I am also new to Solidworks in general, so this was my first time ever creating a drawing in Solidworks. It was a task for me to figure out things like how to size the scale of the different views and change the font size of dimensions. These are things that are needed to make the engineering drawing readable, as the first screenshot I took of my drawing did not have easily readable dimensions. I spent a total of roughly 4 hours on this assignment.
+
+[Click here to download my part](sodesignbracket.SLDPRT)
+[Click here to download my drawing](bracketdrawing.SLDDRW)
