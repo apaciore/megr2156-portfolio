@@ -56,5 +56,9 @@ All of the parts were then inputted into an assembly file for the whole gearbox 
 ![draw4](Screenshot%202026-11-02%20164002.png)
 
 ## Appendix
+
 Selected Bearings Used: Bronze Sleeve Bearing 6391K126 and 6391K611
+
+[Download CAD Assembly](gearboxassembly.SLDASM)
+
 
