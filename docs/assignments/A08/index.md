@@ -5,6 +5,9 @@ The objective of this assignment is to design a gearbox that can be assembled an
 
 
 ## Hand Calculations and Design Specs
+
+![handcalc1](%202026-11-02 133008.png)
+
 I chose to opt for a simple design, where the two halves of the gearbox snap fit to enclose the gears. Because the gears have a diameter of 0.402 in and 1.027 in each. To allow adequate clearance and space for the user to slide the gears into the box, I decided to make the box 2.5 in width and 2 in length. The size of the journal bearings require the walls to be 0.25 in thick so that way the shaft is able to stick out of the gearbox adequately. To ensure that the gears can spin freely, a total depth of 1 in made sense- total being the depth with the face snapped on. 
 
 ## CAD Modeling
