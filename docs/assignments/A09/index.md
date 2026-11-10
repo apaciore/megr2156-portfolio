@@ -5,6 +5,7 @@ The objective of this assignment is to design a pulley system to transfer power 
 
 ## Design
 ![calc1](Screenshot%202026-11-09%20224030.png)
+
 The first thing that I did was design the belt/pulley. I calculated for torques 1 and 2, I researched what the static friction coefficient between polyurethane rubber and 1060 hardened steel is, which I found to be 0.4. The choice for my belt was a circumference of 19 1/4 in, and and a diameter of 1/4 in. 
 Link to the belt chosen: https://www.mcmaster.com/3044K606-1835T382/
 
