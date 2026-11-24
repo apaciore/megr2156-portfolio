@@ -33,7 +33,18 @@ Pictured above is my sketch of the crosshead design with the necessary dimension
 ![cad1](Screenshot%202026-11-23%20125316.png)
 
 The first step in the CAD process was to create a parametric table with with the decided length, base, and calculated height dimensions. From this, I made a rectangle at this length and base, and extruded it to this height. 
+
 ![cad2](Screenshot%202026-11-23%20125559.png)
+
+The next step was creating the two holes for the lead screws. I sketched the two circles at the 1/4 in diameter of the lead screws, and extruded them through so that way the lead screws can pass through the crosshead. 
+
+![cad3](Screenshot%202026-11-23%20131013.png)
+
+Following this, I was able to sketch the bolt holes and extrude them but not all the way through, in order to fasten the flanges. 
+
+![cad4](Screenshot%202026-11-23%20140257.png)
+
+Now, it was time to assemble the other parts I selected to the crosshead I designed. 
 
 
 
