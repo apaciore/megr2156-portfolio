@@ -51,7 +51,7 @@ Now, it was time to assemble the other parts I selected to the crosshead I desig
 ![cad7](Screenshot%202026-11-23%20195302.png)
 ![cad8](Screenshot%202026-11-23%20195348.png)
 
-[Download CAD Assembly](
+[Download CAD Assembly](A10assembly.SLDASM)
 
 [Link for Cost Tabulation](https://docs.google.com/spreadsheets/d/1MrLn0gvXyzyy0gNn-5GuX9hd3E0Ypc85SnPmBMdlyjY/edit?usp=sharing)
 
