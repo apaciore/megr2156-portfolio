@@ -44,9 +44,15 @@ Following this, I was able to sketch the bolt holes and extrude them but not all
 
 ![cad4](Screenshot%202026-11-23%20140257.png)
 
-Now, it was time to assemble the other parts I selected to the crosshead I designed. 
+Now, it was time to assemble the other parts I selected to the crosshead I designed. I started by inserting my designed crosshead, and other selected parts into an assembly file. And then, I assembled the parts step by step.
 
+![cad5](Screenshot%202026-11-23%20194132.png)
+![cad6](Screenshot%202026-11-23%20195135.png)
+![cad7](Screenshot%202026-11-23%20195302.png)
+![cad8](Screenshot%202026-11-23%20195348.png)
 
+[Link for Cost Tabulation](https://docs.google.com/spreadsheets/d/1MrLn0gvXyzyy0gNn-5GuX9hd3E0Ypc85SnPmBMdlyjY/edit?usp=sharing)
 
 ## Communicate
+This assignment taught me many different things honestly. One of which is the relation between linear and rotational speed, like how you can utilize a given linear speed to calculate the rotational speed of a device. I didn't quite understand the distinction and correlation prior to this assignment. I also developed my understanding of how different materials can be utilized in conjunction to form a system/device, as we utilized both bronze and steels. I spent a total of 9 hours on this assignment start to finish.
 
